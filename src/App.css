@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  transition: all .3s;
+  /* color: var(--secondry); */
+}
+
+
+.app_title {
+  font-weight: bolder;
+  text-indent: 0;
+  background: linear-gradient(34,34,34);
+}
+
+
+a {
+  font-size: larger;
+  color:white;
+  font-family:Arial, Helvetica, sans-serif;
+  text-decoration: none;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+/* 
+:root {
+  --primary:#D3EBCD;
+  --background:#AEDBCE;
+  --secondry:#839AA8;
+  --text:#635666;
+} */
+
+/* 
+body[theme-scheme=dark]{
+  --primary:#0F0E0E;
+  --background:#541212;
+  --secondry:#8B9A46;
+  --text:#EEEEEE;
+}
+
+body[theme-scheme=sea]{
+  --background:#D3EBCD;
+  --primary:#AEDBCE;
+  --secondry:#839AA8;
+  --text:#635666;
+}
+ */
